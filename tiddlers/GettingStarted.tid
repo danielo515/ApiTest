@@ -1,3 +1,5 @@
+created: 20151015231043167
+modified: 20151015231051112
 title: GettingStarted
 
 ! Congratulations!
@@ -18,3 +20,5 @@ It is the key to interact with OctoWiki interface. Clikcing on it you can:
 Now a warm message from tiddlywiki community:
 
 <$transclude tiddler="$:/core" subtiddler="GettingStarted"/>
+
+The most stupid commit !
